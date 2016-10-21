@@ -1,0 +1,6 @@
+#to run:
+
+python3 task5.py -d  simpleMap-1-20x20.txt -s '(1,1)' -e '(19,19)' -m 'd'
+
+#document must be in same folder
+#m = 'd' for dijkstra, 'a' for A* algorithm
